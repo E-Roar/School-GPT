@@ -1,0 +1,7 @@
+{
+  "name": "EduNexus AI",
+  "description": "Advanced RAG-powered educational chatbot with cognitive avatars, anti-cheat mechanisms, and comprehensive analytics for schools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
